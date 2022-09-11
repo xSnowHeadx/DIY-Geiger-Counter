@@ -27,5 +27,5 @@ Here a list of necessary hardware components with links where to buy
 * NodeMCU [ESP8266-12E](https://www.aliexpress.com/item/33010335367.html)
 * 3,7V-Akku [405060](https://www.aliexpress.com/item/1005003746052381.html)
 * Power Bank Controller [134N3P](https://www.aliexpress.com/item/33005568006.html) (USB-A-socket removed)
-* Case [DIY_Geiger](https://www.prusaprinters.org/prints/140313-thermocam_v3-with-improved-resolution) (must be printed by yourself)
+* Case [DIY_Geiger](https://www.thingiverse.com/thing:5507322) (must be printed by yourself)
 
