@@ -2,7 +2,7 @@
 
 ![Geiger-Counter Front](pictures/front.jpg)
 
-This is a DYI Geiger Counter with rechargable Akku and OLED-Display for overall costst of roundabout 45€.
+This is a DYI Geiger Counter with rechargable Akku and OLED-Display for overall costs of roundabout 45€.
 
 ----------
 
