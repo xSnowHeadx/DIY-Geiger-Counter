@@ -22,7 +22,7 @@ Because the NodeMCU is Arduino-compatible it can be programmed with any IDE for 
 ## Hardware 
 Here a list of necessary hardware components with links where to buy
 
-* Geiger Tube Kit [Mythtiger](https://www.aliexpress.com/item/1005004074451147.html) (jack socket removed)
+* Geiger Tube Kit [Mythtiger](https://www.aliexpress.com/item/1005004074451147.html) (jack socket and Power-LED removed)
 * 0.91" OLED Display White [SSD1306 ](https://www.aliexpress.com/item/32879702750.html) 
 * NodeMCU [ESP8266-12E](https://www.aliexpress.com/item/33010335367.html)
 * 3,7V-Akku [405060](https://www.aliexpress.com/item/1005003746052381.html)
